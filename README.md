@@ -1,2 +1,3 @@
-# ink-and-feather
+# Ink and Feather
+
 A blog website designed and developed by Hamid
